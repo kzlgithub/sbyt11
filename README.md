@@ -14,6 +14,4 @@ x-panel开源项目：https://github.com/xeefei/X-Panel
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/xeefei/x-panel/master/install.sh)
 ```
-<p style="font-size: 6px; color: #666;">
-    如果的是伊朗老哥的3X-UI，是可以直接〔覆盖安装〕的，因为数据库文件等位置是没有改变的，所以直接覆盖安装，并不会影响你〔原有节点及配置〕等数据
-</p>
+> <small> **注意：** 若你用的是伊朗老哥的3X-UI，是可以直接〔覆盖安装〕的，因为数据库文件等位置是没有改变的，所以直接覆盖安装，并不会影响你〔原有节点及配置〕等数据</small>
