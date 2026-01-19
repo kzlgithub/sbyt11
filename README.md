@@ -9,3 +9,8 @@ x-panel开源项目：https://github.com/xeefei/X-Panel
 <br><br>
 准备工作：VPS一台、域名一个
 <br><br>
+
+安装命令：
+```
+bash <(curl -Ls https://raw.githubusercontent.com/xeefei/x-panel/master/install.sh)
+```
