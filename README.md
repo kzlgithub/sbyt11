@@ -22,8 +22,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/xeefei/x-panel/master/install.
 > <small>
 > **注意： 若你用的是伊朗老哥的3X-UI，是可以直接〔覆盖安装〕的，因为数据库文件等位置是没有改变的，所以直接覆盖安装，并不会影响你〔原有节点及配置〕等数据。如果是其他分支版本，那直接覆盖安装的话，并不能确保一定就能够兼容
 </small>
+<br><br>
 
 openSSH下载地址：https://github.com/PowerShell/Win32-OpenSSH/releases
 > <small>
-> 不是内部或外部命令，也不是可运行的程序或批处理文件
+> 如果出现"不是内部或外部命令，也不是可运行的程序或批处理文件"，就到这里下载ssh工具安装
 </small>
