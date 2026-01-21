@@ -1,3 +1,5 @@
+[![图片](https://img.youtube.com/vi/SdrMTcxBHBg/0.jpg)](https://www.youtube.com/watch?v=SdrMTcxBHBg)
+
 # 🚀 【x-panel】x-panel安装教程
 <div align="center">
   <a href="https://www.youtube.com/@%E8%B5%9B%E5%8D%9A%E4%BA%91%E6%A2%AF">
